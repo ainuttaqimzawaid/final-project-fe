@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-comerse/static/css/main.e58dd0c8.css",
-    "main.js": "/e-comerse/static/js/main.193f1b4e.js",
-    "static/js/787.6c0ac0b0.chunk.js": "/e-comerse/static/js/787.6c0ac0b0.chunk.js",
-    "index.html": "/e-comerse/index.html",
-    "main.e58dd0c8.css.map": "/e-comerse/static/css/main.e58dd0c8.css.map",
-    "main.193f1b4e.js.map": "/e-comerse/static/js/main.193f1b4e.js.map",
-    "787.6c0ac0b0.chunk.js.map": "/e-comerse/static/js/787.6c0ac0b0.chunk.js.map"
+    "main.css": "/final-project-fe/static/css/main.e58dd0c8.css",
+    "main.js": "/final-project-fe/static/js/main.8d88ab18.js",
+    "static/js/787.6c0ac0b0.chunk.js": "/final-project-fe/static/js/787.6c0ac0b0.chunk.js",
+    "index.html": "/final-project-fe/index.html",
+    "main.e58dd0c8.css.map": "/final-project-fe/static/css/main.e58dd0c8.css.map",
+    "main.8d88ab18.js.map": "/final-project-fe/static/js/main.8d88ab18.js.map",
+    "787.6c0ac0b0.chunk.js.map": "/final-project-fe/static/js/787.6c0ac0b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e58dd0c8.css",
-    "static/js/main.193f1b4e.js"
+    "static/js/main.8d88ab18.js"
   ]
 }
