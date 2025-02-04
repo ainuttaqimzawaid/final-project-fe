@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/final-project-fe/static/css/main.e58dd0c8.css",
-    "main.js": "/final-project-fe/static/js/main.8d88ab18.js",
+    "main.js": "/final-project-fe/static/js/main.2d65e4bc.js",
     "static/js/787.6c0ac0b0.chunk.js": "/final-project-fe/static/js/787.6c0ac0b0.chunk.js",
+    "static/media/hijab-logo-vector-26808833-removebg-preview.png": "/final-project-fe/static/media/hijab-logo-vector-26808833-removebg-preview.39d8f4ca020fc1ba3b70.png",
+    "static/media/anime-original-girl-hijab-hd-wallpaper-preview.jpg": "/final-project-fe/static/media/anime-original-girl-hijab-hd-wallpaper-preview.5e3499ecb76b616b3a06.jpg",
     "index.html": "/final-project-fe/index.html",
     "main.e58dd0c8.css.map": "/final-project-fe/static/css/main.e58dd0c8.css.map",
-    "main.8d88ab18.js.map": "/final-project-fe/static/js/main.8d88ab18.js.map",
+    "main.2d65e4bc.js.map": "/final-project-fe/static/js/main.2d65e4bc.js.map",
     "787.6c0ac0b0.chunk.js.map": "/final-project-fe/static/js/787.6c0ac0b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e58dd0c8.css",
-    "static/js/main.8d88ab18.js"
+    "static/js/main.2d65e4bc.js"
   ]
 }
